@@ -25,6 +25,6 @@
 </div>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src=https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,express,npm,discord,discordjs,postman,py,selenium,anaconda,opencv,mysql,mongodb,linux,arch,debian,kali,windows,vscode,visualstudio,obsidian,regex,robloxstudio&perline=14 />
+        <img src=https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,express,npm,discord,discordjs,postman,py,flask,anaconda,opencv,mysql,mongodb,linux,arch,debian,kali,windows,vscode,visualstudio,obsidian,regex,robloxstudio&perline=14 />
     </a>
 </p>
