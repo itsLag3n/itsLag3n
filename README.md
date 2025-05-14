@@ -8,22 +8,6 @@
 <br>
 
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsLag3n&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-    <br></br>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=itsLag3n&theme=dark&hide_border=false" /> 
-</td>
-</table>
-</p>
-
-<div id="user-content-toc">
-    <ul align="center">
-        <summary><h2 align="center" style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-    </ul>
-</div>
-<p align="center">
     <a href="https://skillicons.dev">
         <img src=https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,express,npm,discord,discordjs,postman,py,flask,anaconda,opencv,mysql,mongodb,linux,arch,debian,kali,windows,vscode,visualstudio,obsidian,regex,robloxstudio&perline=14 />
     </a>
